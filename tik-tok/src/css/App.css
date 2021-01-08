@@ -4,8 +4,8 @@ html {
 .app {
   height: 100vh;
   background-color: black;
-  display: grid;
-  place-items: center;
+  /* display: grid;
+  place-items: center; */
 }
 
 .app__videos {

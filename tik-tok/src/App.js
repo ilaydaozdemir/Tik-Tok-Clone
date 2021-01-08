@@ -5,12 +5,14 @@ import Video from './component/Video';
 function App() {
   return (
     <div className='app'>
-      <div className='app__videos'>
-        <Video />
-        <Video />
-        <Video />
-        <Video />
-      </div>
+      <center>
+        <div className='app__videos'>
+          <Video />
+          <Video />
+          <Video />
+          <Video />
+        </div>
+      </center>
     </div>
   );
 }
