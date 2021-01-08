@@ -9,6 +9,9 @@ function App() {
       <strong>ILAYDA ÖZDEMIR</strong>
       <div className='app__videos'>
         <Video />
+        <Video />
+        <Video />
+        <Video />
       </div>
     </div>
   );
